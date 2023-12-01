@@ -1,1 +1,3 @@
 ### Generating Speech from American Sign Language
+
+ A sign language recognition system can be described as a two phase system.  There are different approaches for image acquisition. The gloved based approach uses electromechanical devices to provide exact hand configuration, and position. But it is expensive and not user friendly. The next approach is the vision based approach. One type of vision based approach uses colour gloves for gesture recognition. The next approach uses bare hand as input which is user friendly, but has challenges like complex background, environment variations and presence of other skin color objects with the hand object. 
